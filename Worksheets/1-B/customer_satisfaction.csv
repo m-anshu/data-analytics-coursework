@@ -1,0 +1,8 @@
+CustomerID,Age,Gender,SatisfactionScore,PurchaseFrequency,Feedback
+101,34,M,8,5,Great Product
+102,28,F,8,,Good service
+103,33,M,2,1,
+104,45,F,7,5,Excellent
+105,30,M,6,,Good
+106,35,F,1,,
+107,40,M,3,1,Poor
